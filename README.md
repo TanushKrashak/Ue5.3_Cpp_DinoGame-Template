@@ -7,6 +7,5 @@
   <body>
     <h2> Just download and run the project </h2>
     <meta name="google-site-verification" content="rz333xaYbEvECp2QE_H1NycUNAEGx-ffxwiG9mATW_8" />
-    <a href=""> google-site-verification: google9654afebefd56d64.html </a>
   </body>
 </html>
